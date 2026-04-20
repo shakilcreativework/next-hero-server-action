@@ -1,0 +1,58 @@
+[
+  {
+    "id": "task-001",
+    "title": "Build navbar component",
+    "description": "Responsive navbar with mobile menu",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2026-04-25"
+  },
+  {
+    "id": "task-002",
+    "title": "API integration",
+    "description": "Connect frontend with backend",
+    "completed": false,
+    "priority": "medium",
+    "dueDate": "2026-04-28"
+  },
+  {
+    "id": "task-003",
+    "title": "Design footer section",
+    "description": "Add social icons and improve layout",
+    "completed": false,
+    "priority": "low",
+    "dueDate": "2026-04-26"
+  },
+  {
+    "id": "task-004",
+    "title": "Fix button component bug",
+    "description": "Resolve className override issue",
+    "completed": true,
+    "priority": "high",
+    "dueDate": "2026-04-22"
+  },
+  {
+    "id": "task-005",
+    "title": "Add dark mode support",
+    "description": "Implement theme toggle system",
+    "completed": false,
+    "priority": "medium",
+    "dueDate": "2026-04-30"
+  },
+  {
+    "id": "task-006",
+    "title": "Optimize images",
+    "description": "Compress and lazy load images",
+    "completed": false,
+    "priority": "low",
+    "dueDate": "2026-05-02"
+  },
+  {
+    "id": "task-007",
+    "title": "Deploy to production",
+    "description": "Setup hosting and environment variables",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2026-05-05"
+  }
+]
