@@ -3,6 +3,7 @@ import Link from 'next/link';
 import React from 'react';
 import { ThemeSwitch } from './ThemeSwitch';
 
+
 const Navbar = () => {
     return (
         <div>
@@ -16,9 +17,9 @@ const Navbar = () => {
                         <li><Link href="/">Home</Link></li>
                         <li><Link href="/tasks">Tasks</Link></li>
                     </ul>
-                {
-                    <ThemeSwitch />
-                }
+                    {
+                        <ThemeSwitch />
+                    }
                 </header>
             </nav>
         </div>
